@@ -12,8 +12,6 @@ Skills Include: HTML, CSS, JavaScript, React, Python, React Native
 
 🌱 I’m currently learning Android development
 
-🤔 I’m looking for help with Android development and how to launch my first app on the Google Play Store
-
 📫 How to reach me: deegrams221@gmail.com
 
 [GitHub](https://github.com/deegrams221) | [LinkedIn](https://www.linkedin.com/in/diana-grams/) | [Portfolio](https://dianagrams.dev/)
