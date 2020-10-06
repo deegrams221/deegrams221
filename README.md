@@ -6,7 +6,7 @@ I worked in special education and behavior therapy for 4 years. I'm a US Navy Ve
 
 In my spare time I enjoy rock climbing, hiking, and yoga.
 
-Skills Include: HTML, CSS, JavaScript, React, Python, React Native
+Skills Include: HTML | CSS | JavaScript | React | Python | React Native
 
 🔭 I’m currently working on freelance projects
 
