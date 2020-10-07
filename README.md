@@ -8,9 +8,7 @@ In my spare time I enjoy rock climbing, hiking, and yoga.
 
 Skills Include: HTML | CSS | JavaScript | React | Python | React Native
 
-🔭 I’m currently working on freelance projects
-
-🌱 I’m currently learning Android development
+🔭 Currently working on freelance projects and looking for a full time web dev job
 
 📫 How to reach me: deegrams221@gmail.com
 
