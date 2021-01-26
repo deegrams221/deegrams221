@@ -2,7 +2,7 @@ Hi there 👋, my name is Diana Grams
 
 Full Stack Web Developer 💻
 
-I worked in special education and behavior therapy for 4 years. I'm a US Navy Veteran, have an Associates degree in Liberal Arts: Social and Behavioral Science, as well as a Bachelors degree is Anthropology. I recently completed the Full Stack Web Development program at Lambda School, and I'm currently working as a Team Lead for Lambda School's computer science unit. I love helping people and I think programming is a great way to do that.
+I worked in special education and behavior therapy for 4 years. I'm a US Navy Veteran, have an Associates degree in Liberal Arts: Social and Behavioral Science, as well as a Bachelors degree is Anthropology. I recently completed the Full Stack Web Development program at Lambda School, and worked as a Team Lead for Lambda School's computer science unit for over a year. I love helping people and I think programming is a great way to do that.
 
 🌄 In my spare time I enjoy reading, rock climbing, hiking, and yoga.
 
