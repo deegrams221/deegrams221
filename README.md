@@ -8,7 +8,7 @@ I worked in special education and behavior therapy for 4 years. I'm a US Navy Ve
 
 💻 Skills Include: HTML | CSS | JavaScript | React | Python | React Native
 
-🔭 Currently working on freelance projects and looking for a full time web dev job
+🔭 Currently working on freelance projects and looking for a full time job
 
 📫 How to reach me: deegrams221@gmail.com
 
